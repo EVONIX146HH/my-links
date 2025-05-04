@@ -263,7 +263,7 @@
         </div>
         <div class="profile-container">
             <div class="profile-avatar">
-                <div class="avatar-content">CH</div>
+                <div class="avatar-content">KA</div>
             </div>
             <h1 class="profile-name">Kirill Alexandrovich</h1>
             <p class="profile-description">Мои профили и проекты</p>
